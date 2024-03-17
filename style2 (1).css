@@ -1,0 +1,12 @@
+body {
+  background-color: #9e9e9e;
+}
+
+#square {
+  margin-left: 50px;
+}
+
+input[type="number"] {
+  height: 20px;
+  border-radius: 5px;
+}
